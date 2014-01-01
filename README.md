@@ -1,5 +1,4 @@
-jQuery Jumpout 
-  - A simple Popup Plugin
+jQuery Jumpout
 =======
 
 Demo at http://ruby-china.org/topics/16554
